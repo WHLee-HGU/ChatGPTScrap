@@ -21,12 +21,19 @@
 
 ### [한눈에 이슈] 서울대 AI원장도 "불가능" 교수·학생들 '대혼란' (KBS 뉴스 모음,  Feb 25, 2023)
 * https://youtu.be/1kRFqNUd7Rc
-* 위 링크에는 아래 4가지 뉴스 들이 합쳐진 것. 일반인 수준에서 이해하기 좋을 것 같아 별도로 가져옴
+* 위 링크에는 아래 4가지 뉴스 들을 하나의 영상으로 모아놓은 것. 일반인 수준에서 이해하기 좋을 것 같아 별도로 가져옴
 * ‘챗GPT’가 치른 수능 성적은?…선풍적 인기 속 윤리 합의 시급 / 2023.02.04 뉴스라인 / 조정인 기자
 * 구글, MS ‘챗GPT 대항마’ 발표…AI 대전 본격화 / 2023.02.08 뉴스12 / 조정인 기자
 * ‘챗GPT’ 유료 100만 돌파…우리 기업도 상반기 초거대 AI 출시 / 2023.02.17 뉴스9 / 김유대 기자
 * “살인바이러스 개발” AI 채팅 논란…대리작성에 학계도 비상 / 2023.02.17 뉴스9 / 조정인 기자
 * “챗GPT 열풍을 기회로”…국내 반도체 산업 재도약할까 / 2023.02.20 뉴스7 / 신지수 기자
+
+### "20초 만에…" 초긴장, 대학생들도 술렁인다 / SBS / 모아보는 뉴스 (SBS 뉴스 모음,  Feb 18, 2023)
+* https://youtu.be/fBtnlO45hw8
+* 위 링크에는 아래 3가지 뉴스 들을 하나의 영상으로 모아놓은 것
+* 기자는 반나절, 챗GPT는 20초?…정말 팩트체크 됐을까 (ChatGPT와 윤리)
+* '챗GPT' 시대 도래…"이젠 발달하는 뇌 부위가 달라질 것" (ChatGPT와 뇌과학)
+* 막을 수도, 권할 수도…챗GPT 두고 대학가 '술렁' (
 
 ### 초거대 AI 실전 상황에 이렇게 활용해보세요. (영상, Jan 5, 2023)
 
@@ -38,7 +45,7 @@
 
 ### Transformer
 
-## 미래 예측 (기술 기반)
+## 미래 예측
 
 ### '창조성'을 둘러싼 인간과 기계의 전쟁 - AI와 예술의 미래 (영상, Feb 19, 2023)
 
@@ -51,7 +58,11 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 * 화자는 예술적 평가가 예술의 기술적 측면에 국한되지 않고 예술적 표현의 다양성도 고려해야 한다고 주장
 
 ### ChatGPT로 구글이 망한다? AI시대의 내일을 이해하기 위한 몇 가지 이야기들 (영상, Feb 19, 2023)
-
+* https://youtu.be/g9iWYxNfYpo
+* ChatGPT 및 이와 관련된 AI 대한 간략한 이해에도 도움이 되는 영
+* AI 현황을 이해한다면, 기술력 및 거대 인공지능 모델을 가지고 있는 Google이 망한다고 이야기하는 것은 잘 모르고 하는 이야기
+* OpenAI는 "페이스메이커"라고 보는 것이 맞다.
+* 싸움은 이제부터
 
 ### Cyborgism (블로그 글, Feb 10, 2023)
 
@@ -69,6 +80,13 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 ### 인공 지능 서비스를 이용한 정보 콘텐츠 시장에는 보이지 않는 손이 동작할까 (블로그, Feb 26, 2023)
 * https://blog.naver.com/leestation/223028386811
+
+### 인공지능의 도움으로 다시 바둑에서 사람이 인공지능을 이긴 사례 (기사, Feb 19, 2023)
+* 기사제목: “이사람 인간 맞아? 수상한데”...인공지능과 바둑 15전14승
+* https://m.mk.co.kr/news/it/10650403?fbclid=IwAR302feKY5tKRD8F-kvU4MgiEj0XuAtp9ixOQAqjklNkoAuu-iQiOiSxzIs
+* 미국 아마추어 2위 켈린 펠린, 현장 컴퓨터 도움 없이 15전 14승, 비결은 AI가 가르쳐준 AI 약점 공략, “넓고 크게 둬 산만하게 한 것 주효”
+* (근시일 내에 인간과 AI의 협력이 확대될 것이라는 점을 시사함)
+
 
 ## 사용법 관련
 
@@ -91,7 +109,9 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 1. Temperature (1에 가까울 수록 다양한 답이 나올 수 있음)
 2. Top-P (0에 가까울 수록 가장 정확한/적절한 대답이 나옴)
 3. Beam Width (대답 후보군을 넓게 설정 가능하나 시간이 더 걸림)
+* 한 인공지능 전문가의 의견 추가
 
+"GPT3 playground나 hyperclova studio에는 다 지정할수 있도록 되어 있는 다 있는 유명한 parameter들이야. 사용자 커스텀할수 있도록 (+결과에 대해 책임지지 않으려고) 저런 파라미터들을 당연히 사용자에게 제공해주어야한다고 생각했었는데, chatgpt는 그 창을 다 없애버리고 나온게 재미있지."
 
 ### 영어 듣기 연습 ⟪ 하드코어 ⟫ - CHATGPT & Bionic Reading (영상, Feb 26, 2023)
 * https://youtu.be/MNIj-PzdbiE
@@ -115,6 +135,13 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 
 ### 경제
+#### 22 ways ChatGPT could be used in economics research (기사, February 14, 2023)
+* https://qz.com/how-chat-gpt-could-be-used-in-economics-research-1850114121?fbclid=IwAR2M1OVhs0sQc-D_3pvhXCRPYJpv3Ygd8vCA8TJaJd32Tve-HqxoWpf5lQU
+* 논문 Language Models and Cognitive Automation for Economic Research ([링크](https://www.nber.org/papers/w30957?fbclid=IwAR18cFeijUfOqC3Jsa9colUpPQ0CxBGO02Qp9eSJM-r6iS_Ox2VqWewg1Go))
+* 요약 (Facebook Jonathan Jeon님의 글, [링크](https://www.facebook.com/1biit/posts/pfbid029oSnhpuaju8SwAeG2cL8GrLsPpm67jjrEeCsMpsxAdEQFifwA664Bewosu63F7zVl))
+* 버지니아 대학의 경제학 교수인 안톤 코리넥(Anton Korinek)이 전미 경제 연구국(National Bureau of Economic Research)에 발표한 논문. "경제학 연구에 ChatGPT를 사용할 수 있는 22가지 방법"
+* Korinek은 "이 기사를 작성하는 나의 목표는 두 가지였습니다. 언어 모델의 일반 사용자를 다양한 다양한 사용 사례에 노출시키고 일부 회의론자를 설득하는 것입니다."라고 말했습니다. "나는 우리가 생산성을 향상하고 과학적 진보를 가속화하기 위해 이러한 도구를 책임감 있게 사용한다면 사회로서 우리가 얻을 수 있는 것이 많다고 믿습니다."
+* 여기서 언급한 22가지 방법의 중분류는: 새로운 연구 분야에 대한 아이디어, 경제학 연구 쓰기, 배경 조사, 코딩, 데이터 분석 
 
 ### 철학
 
