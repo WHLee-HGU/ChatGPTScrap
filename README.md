@@ -57,8 +57,7 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 * https://sharegpt.com/c/SKwsQKv?fbclid=IwAR3YUUHsKeG9FnQGA2_xYROLQujZgBF4HAl4OjVfMwpQS_N1lfS8uWAnNp0 
 
 ## 사용법 관련
-#### 초거대 AI 실전 상황에 이렇게 활용해보세요. (영상, Jan 5, 2023))
-* https://youtu.be/WyVhy_18cT8 
+
 #### ChatGPT 똑똑하게 쓰기! 이 영상 하나로 충분합니다. 야 너두 할 수 있어! (영상, Feb 20, 2023)
 * https://youtu.be/0n25AF0aF9g 
 1. 물어봤을 때 대답하는 방식 지정
