@@ -18,6 +18,16 @@
 ### 위 영상을 만든 채널의 영상 목록에 관련해서 좋은 자료들이 더 있음
 * https://www.youtube.com/@InformationandIntelligence/videos
 
+
+### [한눈에 이슈] 서울대 AI원장도 "불가능" 교수·학생들 '대혼란' (KBS 뉴스 모음,  Feb 25, 2023)
+* https://youtu.be/1kRFqNUd7Rc
+* 위 링크에는 아래 4가지 뉴스 들이 합쳐진 것. 일반인 수준에서 이해하기 좋을 것 같아 별도로 가져옴
+* ‘챗GPT’가 치른 수능 성적은?…선풍적 인기 속 윤리 합의 시급 / 2023.02.04 뉴스라인 / 조정인 기자
+* 구글, MS ‘챗GPT 대항마’ 발표…AI 대전 본격화 / 2023.02.08 뉴스12 / 조정인 기자
+* ‘챗GPT’ 유료 100만 돌파…우리 기업도 상반기 초거대 AI 출시 / 2023.02.17 뉴스9 / 김유대 기자
+* “살인바이러스 개발” AI 채팅 논란…대리작성에 학계도 비상 / 2023.02.17 뉴스9 / 조정인 기자
+* “챗GPT 열풍을 기회로”…국내 반도체 산업 재도약할까 / 2023.02.20 뉴스7 / 신지수 기자
+
 ### 초거대 AI 실전 상황에 이렇게 활용해보세요. (영상, Jan 5, 2023)
 
 * [https://youtu.be/WyVhy_18cT8](https://youtu.be/WyVhy_18cT8) 
@@ -56,6 +66,10 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 ### ChatGPT에게 유사 인공지능(NLP) 서비스, 10년 뒤, 100년 뒤, 더 미래에 대해 물어봄 (웹사이트, Feb, 2023)
 * https://sharegpt.com/c/SKwsQKv?fbclid=IwAR3YUUHsKeG9FnQGA2_xYROLQujZgBF4HAl4OjVfMwpQS_N1lfS8uWAnNp0 
 
+
+### 인공 지능 서비스를 이용한 정보 콘텐츠 시장에는 보이지 않는 손이 동작할까 (블로그, Feb 26, 2023)
+* https://blog.naver.com/leestation/223028386811
+
 ## 사용법 관련
 
 #### ChatGPT 똑똑하게 쓰기! 이 영상 하나로 충분합니다. 야 너두 할 수 있어! (영상, Feb 20, 2023)
@@ -77,6 +91,12 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 1. Temperature (1에 가까울 수록 다양한 답이 나올 수 있음)
 2. Top-P (0에 가까울 수록 가장 정확한/적절한 대답이 나옴)
 3. Beam Width (대답 후보군을 넓게 설정 가능하나 시간이 더 걸림)
+
+
+### 영어 듣기 연습 ⟪ 하드코어 ⟫ - CHATGPT & Bionic Reading (영상, Feb 26, 2023)
+* https://youtu.be/MNIj-PzdbiE
+* Bionic Reading이라는 것을 소개
+* Bionic Reading을 ChatGPT에게 요청해보기. 실제로 잘 하지는 못하지만 대화 interaction을 통해서도 ChatGPT를 학습시킬 수 있다는 가능성을 보여주는 영상
 
 ## 분야별 활용
 
