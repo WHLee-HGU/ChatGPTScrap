@@ -222,7 +222,7 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 ## 분야별 활용
 
-### 일반 공학 교육
+### 일반 교육
 별도의 문서로 관리 중 [링크: https://github.com/WHLee-HGU/HowToUseChatGPTforEngineeringEdu/](https://github.com/WHLee-HGU/HowToUseChatGPTforEngineeringEdu/)
 
 
