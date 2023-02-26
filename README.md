@@ -7,6 +7,9 @@
 ## 일반적 설명
 
 ### GPT: Generative Pre-trained Transformer
+
+### ChatGPT was released for public access on November 30, 2022
+
 ### GPT는 뭐고, ChatGPT는 또 뭔가? (영상, Feb 4, 2023)
 * [https://youtu.be/hZRgLu4RKKk](https://youtu.be/hZRgLu4RKKk)
 * (요약) OpenAI에서 개발한 AI 언어 모델인 ChatGPT와 그 기능에 대한 소개 영상입니다. 발표자는 AI와 딥러닝에 대한 관심이 데이터를 분석하고 비즈니스, 프로그래밍 및 기타 주제에 대한 통찰력을 제공할 수 있는 ChatGPT에 대한 관심이 급증했다고 설명합니다. 이 비디오는 또한 AI에 대한 Microsoft의 투자와 기술의 미래에 대한 잠재적 영향에 대해 설명합니다. 연사는 프로그래밍 및 코딩을 지원하는 ChatGPT의 능력을 강조하여 잠재적으로 인간 개입의 필요성을 줄입니다.
