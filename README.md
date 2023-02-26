@@ -167,6 +167,9 @@ Issues for discussion at a forum about conversational AIs.
 * https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
 #### 유사사례 몇 개 더 소개해주는 영상 (Feb 26, 2023)
 * https://youtu.be/5b7SnWta6nQ?t=695
+* 자책하고 혼란스러워하는 사례까지 Reddit에 올라옴
+* MS Bing에서는 채팅 응답을 5개까지로 제한함
+* 그런데 "실언"을 해서 사람들의 흥미를 올릴 수는 있지 않을까에 대한 상상도 해
 
 
 ### 사용자에게 알리지 않고 AI 기술을 사용하는 비윤리적인 행태
