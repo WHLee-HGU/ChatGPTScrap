@@ -158,15 +158,15 @@ Issues for discussion at a forum about conversational AIs.
 * AI 학습에 활용된 데이터는 동의없이 인터넷에서 스크랩된 경우가 많다.
 * 중앙 통제 방식 (OpenAI 방식) vs 탈중앙 배포 방식 (Stability AI, 오픈 소스로 공개함, 포르노 생성에 활용되기도 함)
 
-### ChatGPT를 잘 구슬려서 이상한 답을 만들게 할 수 있다. (기사, Feb 14, 2023)
+### DAN(Do Anything Now) 사례 (오용/남용 사례)
+#### ChatGPT를 잘 구슬려서 이상한 답을 만들게 할 수 있다. (기사, Feb 14, 2023)
 * https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
 * 아래 사용법에 나오는 "ChatGPT" 최면걸기와 느낌이 비슷
 * 예전 이루다 사태 때 챗봇 노예 만들기 방법이 공유되던 때를 떠올리게 
-* DAN(Do Anything Now)라는 기법이라고도 불
-
-### 위와 유사한 사례 (기사, Feb 16, 2023)
-* 제목: "A Conversation With Bing’s Chatbot Left Me Deeply Unsettled"
+#### "A Conversation With Bing’s Chatbot Left Me Deeply Unsettled" (기사, Feb 16, 2023)
 * https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
+#### 유사사례 몇 개 더 소개해주는 영상 (Feb 26, 2023)
+* https://youtu.be/5b7SnWta6nQ?t=695
 
 
 ### 사용자에게 알리지 않고 AI 기술을 사용하는 비윤리적인 행태
