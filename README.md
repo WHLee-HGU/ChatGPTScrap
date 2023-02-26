@@ -53,8 +53,7 @@
 * 기술 설명이 그렇게 많지는 않지만, 일반용어로 잘 설명해두었음
 * https://youtu.be/WVct5y3hBEg?t=300 
 
-### Graph Machine Learning
-* Graph를 이용한 전통적인 머신러닝부터 
+
 
 ## 미래 예측
 
@@ -62,7 +61,7 @@
 ### 네이처에서 작성한 "연구를 위한 5가지 우선 순위" (Feb 2, 2023)
 * https://www.nature.com/articles/d41586-023-00288-7?fbclid=IwAR3If39VxZqdzBGgGVy4UddQqBi9qTHnWH7Ss-S4Xz8hxVPWngnrmhCZVow
 * LLM: Large Language Model
-#### Hold on to human verification 여전히 사람의 검증이 필요
+#### Hold on to human verification 여전히 사람의 검증을 필요
 * 연구자들이 작업에 LLM을 사용한다고 가정하면 학자들은 경계를 늦추지 말아야 합니다. 전문가 중심의 사실 확인 및 검증 프로세스가 필수적입니다.
 * 우리는 인간이 과학적 실천에 대해 항상 책임을 져야 한다고 생각합니다.
 #### Develop rules for accountability 책임을 위한 규칙 개발 필요
@@ -73,7 +72,7 @@
 #### 진정한 개방형 LLM에 투자
 * 연구 커뮤니티의 가장 시급한 문제 중 하나는 투명성 부족입니다.
 * 이러한 불투명성에 대응하기 위해서는 오픈 소스 AI 기술의 개발과 구현이 우선되어야 합니다. 대학과 같은 비상업적 조직은 일반적으로 빠른 LLM 개발 속도를 따라잡는 데 필요한 계산 및 재정 자원이 부족합니다. 따라서 우리는 과학 기금 조직, 대학, 비정부 기구(NGO), 정부 연구 시설 및 UN과 같은 조직과 거대 기술 기업이 독립적인 비영리 프로젝트에 상당한 투자를 할 것을 지지합니다.
-#### Embrace the benefits of AI
+#### Embrace the benefits of AI 적극적으로 AI의 장점을 받아들이고 사용해야 함
 * “intelligent partnerships” between people and intelligent technology
 * 편견, 출처 및 부정확성과 관련된 현재 문제가 해결된다면 이 기술은 엄청난 잠재력을 가지고 있다고 생각합니다. 연구원이 특정 연구 관행에 대해 기술을 현명하게 사용하는 방법을 알 수 있도록 LLM의 타당성과 신뢰성을 조사하고 발전시키는 것이 중요합니다.
 * prompt engineering (the process of designing and crafting the text that is used to prompt conversational AI models)
