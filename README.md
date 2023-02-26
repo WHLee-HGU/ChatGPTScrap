@@ -41,11 +41,75 @@
 * (요약) 발표자는 아동 도서를 포함한 문학에 AI 생성 콘텐츠를 사용하는 방법과 Outpainting 기능으로 삽화를 만드는 방법을 시연합니다. 이 영상은 AI가 앞으로 아이들을 위한 새로운 이야기를 만들어낼 가능성도 시사한다.
 * 본 영상의 내용을 사용법이 아니라 개념 설명 파트에 넣은 이유는, 해당 영상에서 ChatGPT 사용만을 보여주는 것이 아니기도 하고, 아직 해당 인공지능 서비스에 대해 감이 없는 경우, 이해를 높일 수 있기 때문에 개념 이해에 도움이 된다고 생각하여 여기에 넣어 두었음.
 
+### TIME지 표지에 실린 ChatGPT (Feb 16, 2023)
+* https://time.com/6255952/ai-impact-chatgpt-microsoft-google/
+* 관전포인트: TIME이라는 글자까지 가려가며 ChatGPT 내용을 표시, 그리고 최종 결정권은 사람임을 우측에 표
+
+
 ## 기술적 설명자료
 
 ### Transformer
+#### A recap of ChatGPT | tech news (Chapter: Transformer, GPT, ChatGPT, the technical overview of the tech) (영상, Feb 13, 2023)
+* 기술 설명이 그렇게 많지는 않지만, 일반용어로 잘 설명해두었음
+* https://youtu.be/WVct5y3hBEg?t=300 
+
+### Graph Machine Learning
+* Graph를 이용한 전통적인 머신러닝부터 
 
 ## 미래 예측
+
+
+### 네이처에서 작성한 "연구를 위한 5가지 우선 순위" (Feb 2, 2023)
+* https://www.nature.com/articles/d41586-023-00288-7?fbclid=IwAR3If39VxZqdzBGgGVy4UddQqBi9qTHnWH7Ss-S4Xz8hxVPWngnrmhCZVow
+* LLM: Large Language Model
+#### Hold on to human verification 여전히 사람의 검증이 필요
+* 연구자들이 작업에 LLM을 사용한다고 가정하면 학자들은 경계를 늦추지 말아야 합니다. 전문가 중심의 사실 확인 및 검증 프로세스가 필수적입니다.
+* 우리는 인간이 과학적 실천에 대해 항상 책임을 져야 한다고 생각합니다.
+#### Develop rules for accountability 책임을 위한 규칙 개발 필요
+* AI 챗봇 탐지기를 만들어 쓸데없는 경쟁에 가담하기보다는 연구 커뮤니티와 게시자가 무결성, 투명성 및 정직성을 가지고 LLM을 사용하는 방법을 찾아야 한다고 생각합니다.
+* AI가 고안한 발명은 이미 특허법9에 대한 근본적인 재고를 불러일으키고 있으며, AI가 생성한 것뿐만 아니라 AI를 훈련시키는 데 사용되는 코드 및 이미지의 저작권에 대한 소송이 제기되었습니다(go.nature.com/3y4aery 참조).
+* AI가 작성하거나 도움을 받은 원고의 경우, 연구 및 법률 커뮤니티는 텍스트에 대한 권리를 누가 보유하고 있는지 알아내야 합니다.
+* AI 시스템이 훈련된 텍스트를 작성한 개인입니까, AI를 생산한 기업입니까, 아니면 시스템을 사용하여 작성을 안내한 과학자입니까? 다시 말하지만 저자의 정의를 고려하고 정의해야 합니다.
+#### 진정한 개방형 LLM에 투자
+* 연구 커뮤니티의 가장 시급한 문제 중 하나는 투명성 부족입니다.
+* 이러한 불투명성에 대응하기 위해서는 오픈 소스 AI 기술의 개발과 구현이 우선되어야 합니다. 대학과 같은 비상업적 조직은 일반적으로 빠른 LLM 개발 속도를 따라잡는 데 필요한 계산 및 재정 자원이 부족합니다. 따라서 우리는 과학 기금 조직, 대학, 비정부 기구(NGO), 정부 연구 시설 및 UN과 같은 조직과 거대 기술 기업이 독립적인 비영리 프로젝트에 상당한 투자를 할 것을 지지합니다.
+#### Embrace the benefits of AI
+* “intelligent partnerships” between people and intelligent technology
+* 편견, 출처 및 부정확성과 관련된 현재 문제가 해결된다면 이 기술은 엄청난 잠재력을 가지고 있다고 생각합니다. 연구원이 특정 연구 관행에 대해 기술을 현명하게 사용하는 방법을 알 수 있도록 LLM의 타당성과 신뢰성을 조사하고 발전시키는 것이 중요합니다.
+* prompt engineering (the process of designing and crafting the text that is used to prompt conversational AI models)
+* 성능에만 관심을 둔다면 AI 기술이 발전함에 따라 사람들의 기여가 더 제한되고 모호해질 수 있습니다. 미래에는 AI 챗봇이 가설을 세우고, 방법론을 개발하고, 실험을 만들고12 데이터를 분석 및 해석하고 원고를 작성할 수 있습니다. 인간 편집자와 리뷰어 대신 AI 챗봇도 기사를 평가하고 검토할 수 있습니다. 우리는 여전히 이 시나리오에서 어느 정도 벗어나 있지만 대화형 AI 기술이 과학 출판 프로세스의 모든 단계에 점점 더 영향을 미칠 것이라는 데는 의심의 여지가 없습니다.
+* 따라서 윤리학자를 포함한 학자들은 AI를 사용하여 지식 생성의 잠재적 가속화와 연구 과정에서 인간의 잠재력과 자율성의 상실 사이의 균형에 대해 논의해야 합니다. 사람들의 창의성과 독창성, 교육, 훈련 및 다른 사람들과의 생산적인 상호 작용은 관련성 있고 혁신적인 연구를 수행하는 데 필수적일 것입니다.
+#### Widen the debate 토론의 장을 넓히기
+* 긴급하고 광범위한 토론을 조직해야 합니다.
+* 모든 연구 그룹이 즉시 회의를 갖고 토론하고 스스로 ChatGPT를 사용해 볼 것을 권장합니다(아직 하지 않은 경우).
+* 교육자들은 학부생들과 그것의 사용과 윤리에 대해 이야기해야 합니다. 
+* 외부 규칙이 없는 이 초기 단계에서는 책임 있는 그룹 리더와 교사가 정직, 무결성 및 투명성을 가지고 사용 방법을 결정하고 일부 참여 규칙에 동의하는 것이 중요합니다.
+* 연구에 기여하는 모든 사람은 ChatGPT로 생성되었는지 여부에 관계없이 자신의 작업에 대해 책임을 져야 한다는 점을 상기해야 합니다.
+* 모든 작성자는 자신의 텍스트, 결과, 데이터, 코드 및 참조를 신중하게 사실 확인해야 할 책임이 있습니다.
+* 다양한 분야의 과학자, 기술 회사, 대규모 연구 자금 제공자, 과학 아카데미, 출판사, NGO, 개인 정보 보호 및 법률 전문가를 포함한 관련 이해 관계자를 위한 즉각적이고 지속적인 국제 포럼을 요구합니다. (아래 토론을 위한 질문 리스트 제시)
+* LLM은 양날의 검이 될 수 있습니다. 예를 들어 언어 장벽을 제거하고 더 많은 사람들이 고품질 텍스트를 작성할 수 있도록 함으로써 경쟁의 장을 평준화하는 데 도움이 될 수 있습니다. 그러나 대부분의 혁신과 마찬가지로 고소득 국가와 특권을 가진 연구자들은 자체 연구를 가속화하고 불평등을 확대하는 방식으로 LLM을 활용하는 방법을 빠르게 찾을 가능성이 있습니다. 따라서 토론에는 연구에서 소외된 집단과 연구에 영향을 받는 지역 사회의 사람들이 포함되어 사람들의 생생한 경험을 중요한 자원으로 사용하는 것이 중요합니다.
+#### Questions for debate
+Issues for discussion at a forum about conversational AIs.
+* Which research tasks should or should not be outsourced to large language models (LLMs)?
+* Which academic skills and characteristics remain essential to researchers?
+* What steps in an AI-assisted research process require human verification?
+* How should research integrity and other policies be changed to address LLMs?
+* How should LLMs be incorporated into the education and training of researchers?
+* How can researchers and funders aid the development of independent open-source LLMs and ensure the models represent scientific knowledge accurately?
+* What quality standards should be expected of LLMs (for example, transparency, accuracy, bias and source crediting) and which stakeholders are responsible for the standards as well as the LLMs?
+* How can researchers ensure that LLMs promote equity in research, and avoid risks of widening inequities?
+* How should LLMs be used to enhance principles of open science?
+* What legal implications do LLMs have for scientific practice (for example, laws and regulations related to patents, copyright and ownership)?
+* 어떤 연구 작업을 대규모 언어 모델(LLM)에 아웃소싱해야 하거나 하지 않아야 합니까?
+* 연구자에게 필수적인 학문적 기술과 특성은 무엇입니까?
+* AI 지원 연구 프로세스에서 사람의 확인이 필요한 단계는 무엇입니까?
+* LLM을 다루기 위해 연구 무결성 및 기타 정책을 어떻게 변경해야 합니까?
+* LLM은 연구원의 교육 및 훈련에 어떻게 통합되어야 합니까?
+* 어떻게 연구자와 기금 제공자가 독립적인 오픈 소스 LLM의 개발을 지원하고 모델이 과학적 지식을 정확하게 나타내도록 보장할 수 있습니까?
+* LLM에는 어떤 품질 표준(예: 투명성, 정확성, 편향 및 출처 신용)이 기대되어야 하며 LLM뿐만 아니라 표준에 대해 책임을 지는 이해관계자는 누구입니까?
+* 연구자들은 LLM이 연구의 형평성을 촉진하고 불평등 확대의 위험을 피하도록 어떻게 보장할 수 있습니까?
+* 개방형 과학의 원칙을 강화하기 위해 LLM을 어떻게 사용해야 합니까?
+* LLM은 과학적 관행(예: 특허, 저작권 및 소유권과 관련된 법률 및 규정)에 어떤 법적 영향을 미칩니까?
 
 ### '창조성'을 둘러싼 인간과 기계의 전쟁 - AI와 예술의 미래 (영상, Feb 19, 2023)
 
