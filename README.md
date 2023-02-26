@@ -47,7 +47,7 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 * https://www.alignmentforum.org/posts/bxt7uCiHam4QXrQAA/cyborgism?fbclid=IwAR25AyebWc0p0GRYIeVKd0BeSY7r4l1HuJL_zo8W7dn44uhKoVLIPBl-UwQ
 
-* 요약 (요약문은 Facebook 게시물을 가져옴, 링크)
+* 요약 (요약문은 Facebook 게시물을 가져옴, [링크](https://www.facebook.com/1biit/posts/pfbid0DYtDLZV2Z28Uwo27NGrtidD78dJKxkp3S5cHeqYr15RXEjDp5YK6SvZm9Gyd5fthl))
 * 앞으로의 인간의 개입이 필요없는 자율화된 인공지능 시스템까지 가기 위해서는 여러 불확실성과 위험으로부터 회피하고 안전성을 보장할 수 있어야 하는데, 그러기 위해서는 완전 자율형 AI 시스템을 목표로 개발하는 것이 아니라, 인간 운영자의 인지 능력을 향상하고 확장할 수 있도록 대리하고 돕는 cyborg 개념의 인간 참여형 agent를 포함시켜 훈련하고 권한을 부여하는 전략으로 갈 필요성이 있다는 이야기. 
 * ChatGPT에서 Reinforcement Learning from Human Feedback (RLHF)를 둔 것도 같은 맥락이란 해석. 그러므로 앞으로는 GPT의 다양성을 효과적으로 통제하며, prompt를 통해 GPT simulation 공간에서 인간이 원하는 해답에 다가갈 수 있도록 매개하며 도와주는 인간 참여형 cyborg agent로 layer를 두면서 발전시켜야 한다는 아이디어. 
 
