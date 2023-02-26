@@ -73,9 +73,7 @@
 
 
 
-
-## 미래 예측
-
+## 윤리적 이슈
 
 ### 네이처에서 작성한 "연구를 위한 5가지 우선 순위" (Feb 2, 2023)
 * https://www.nature.com/articles/d41586-023-00288-7?fbclid=IwAR3If39VxZqdzBGgGVy4UddQqBi9qTHnWH7Ss-S4Xz8hxVPWngnrmhCZVow
@@ -129,6 +127,49 @@ Issues for discussion at a forum about conversational AIs.
 * 개방형 과학의 원칙을 강화하기 위해 LLM을 어떻게 사용해야 합니까?
 * LLM은 과학적 관행(예: 특허, 저작권 및 소유권과 관련된 법률 및 규정)에 어떤 법적 영향을 미칩니까?
 
+### StackOVerflow의 ChatGPT를 이용한 답변 금지 공지 (공지글, Dec 5, 2022)
+* 최근 StackOverflow에서는 ChatGPT를 이용한 답변을 금지하는 임시 공지를 올렸다. 그 이유는 "the average rate of getting correct answers from ChatGPT is too low" 틀린 답을 너무 그럴듯하게 말하기 때문이라고 한다.
+* https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned?cb=1
+* 아래 글은 페이스북 개인 게시글 내용 (Jan 15, 2023, [링크](https://www.facebook.com/leestation/posts/pfbid03656jLMWz3gWdhVguXvkVkUB7HTwQcRXU993HZ1g6ATxiw7ufftYSyCQQJvK1KfKLl?__cft__[0]=AZUPHEFsic_DfUY5-g3FVVIiYnNyifnVDhHEqaTgO1H_yuTUtTNm1ArVi-35PQggbe1SRXMcdTtya_KbT0qWj7X-jeb4kdimLQ6gH2szaYHuEkglb6Mc_I2GiKXfOfQIsCVIUPQtUynSFxOxIDsY1LxeBlwed7z40stDvtqAdJmmLg&__tn__=%2CO%2CP-R))
+* ChatGPT의 전문성(코딩 한정)에 대한 평가를 다음의 사례로 가늠해볼 수 있지 않겠나 싶다.
+* StackOverflow를 써본 사람은 알겠지만,  답변의 신뢰도와 정확도는 다른 엔지니어들의 추천/비추천을 통해 상대적으로 평가를 받는다. 그런데 ChatGPT의 답이 추천을 많이 받지 못하고, 곧 틀린 내용들이 많다는 것.
+* StackOverflow와 과학계는 동료 연구자들(peers)에 의해 서로를 검증하고 발전시키는 과정을 거친다. 인간에 의해 검증되는 시스템이라 다소 느리다는 단점이 있고, 또한, 이 과정이 신뢰를 얻으려면 "물을 흐리는" 녀석이 없어야 한다.  문제는 ChatGPT가 너무 "빠르게" "물을 흐리는" 녀석이라는 것이다.
+* 그런데 다시 생각해보면 물을 흐리는 녀석은 ChatGPT 자체라기보다는 "ChatGPT를 무분별하게 사용하는 몇몇 사용자들"이다. 위 공지에서 실제로 패널티를 얻는 것도 ChatGPT를 사용한 (것으로 판단되는) 사용자다. (그런데 ChatGPT가 더 발전하면 이런 걸 어떻게 찾아낼런지 ㅎㅎ;)
+* 지난 학기 때, 이산수학 강의를 하게 되면서 수학문제를 풀어보게 시켰는데, 놀랍도록 자세하게 설명을 하는 걸 봤는데, 생각보다 높은 확률로 그 답은 틀렸더랬다. (다행이다.) 만약, 학생들 사이에서 혹은 조교들 사이에서 ChatGPT를 이용해서 푼 문제가 진짜인 것처럼 무분별하게 공유가 되고 이를 너무 쉽게 믿어버리는 상황이 된다면 꽤나 혼란일 것 같다.
+* "아직은" 사람 전문가들이 이런 정보들을 검증해 내야 하는 상황이긴 하지만, ChatGPT와 유사한 서비스들이 더 출시된다면, 여러 서비스들을 돌려보고 그 중에 가장 대세인 답을 사용하게 되는 그런 날도 곧 오겠지.
+
+### [전치형의 과학 언저리] 인공지능은 표절할 수 있는가 (칼럼, Jan 7, 2023)
+* https://www.hani.co.kr/arti/opinion/column/1074600.html
+* "챗지피티와 같은 인공지능은 분명 글을 쓸 수 있다. 글을 쓴다고 말하기가 꺼림칙하다면 적어도 글을 생성한다고는 말할 수 있다. 우리는 그것을 편리한 글쓰기 도구로 활용하게 될 것이다. 이제 고민해야 할 과제는 인공지능이 생성한 텍스트를 기존의 저자와 텍스트의 네트워크 속으로 어떻게 받아들이느냐는 것이다."
+* "앞으로 (조수, 2023)이라고 인용 표기된 글을 만날 때마다 계속 묻게 될 것 같은 질문이다."
+
+### 인공 지능 서비스를 이용한 정보 콘텐츠 시장에는 보이지 않는 손이 동작할까 (블로그, Feb 26, 2023)
+* https://blog.naver.com/leestation/223028386811
+
+
+### 늘 그렇듯 새로운 기술을 이상하게(?) 활용하는 사람들이 등장했다 (영상, Feb 4, 2023)
+* https://youtu.be/4SsieX--ZqY
+* 기술 지식을 모르는 사람도 해킹에 악용할 수 있다
+* 요청을 살짝 수정하는 것만으로도 피싱 이메일 생성 가능
+* "ChatGPT와 같은 툴이 사이버 범죄를 민주화할 것이라 확신한다."
+* 오히려 ChatGPT가 사이버 공격을 분석하고 보안을 강화할 제안을 할 수 있을 것?
+* 크리에이티브 인력 상당수가 창조적 AI 때문에 일자리를 잃을 수도 있다.
+* 가짜 뉴스와 허위 정보를 생성하는 데에 악용될 수 있다.
+* AI 학습에 활용된 데이터는 동의없이 인터넷에서 스크랩된 경우가 많다.
+* 중앙 통제 방식 (OpenAI 방식) vs 탈중앙 배포 방식 (Stability AI, 오픈 소스로 공개함, 포르노 생성에 활용되기도 함)
+
+### 사용자에게 알리지 않고 AI 기술을 사용하는 비윤리적인 행태
+* https://time.news/controversy-and-ethical-concerns-after-the-use-of-an-artificial-intelligence-tool-chatgpt-in-mental-health/ (관련 영문 기사, Jan 10, 2023)
+* https://zdnet.co.kr/view/?no=20230119100236 (관련 국문기사 Jan 1, 2023)
+* "Koko 사용자는 처음에 응답이 봇에 의해 생성되었다는 정보를 받지 못했으며 Morris는 "사람들이 메시지가 기계에 의해 공동 생성되었다는 사실을 알게 되자 작동하지 않았습니다."라고 썼습니다."
+
+
+
+
+
+## 미래 예측
+
+
 ### '창조성'을 둘러싼 인간과 기계의 전쟁 - AI와 예술의 미래 (영상, Feb 19, 2023)
 
 * https://youtu.be/cC4-lxdY7rI
@@ -174,7 +215,7 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 
 
-## 사용법 관련
+## 효과적인 사용법
 
 #### CHATGPT 10배 효율 높이기 (최면걸기) (영상, Feb 7, 2023)
 * https://youtu.be/GhloGwZP5fM
@@ -220,7 +261,7 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 
 
-## 분야별 활용
+## 분야별 활용사례
 
 ### 일반 교육
 별도의 문서로 관리 중 [링크: https://github.com/WHLee-HGU/HowToUseChatGPTforEngineeringEdu/](https://github.com/WHLee-HGU/HowToUseChatGPTforEngineeringEdu/)
@@ -244,6 +285,9 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 
 ### 의학
 #### 챗GPT, 정신 치료 가능할까...전문가 "시기상조" (기사, Jan 1, 2023) 
+* https://zdnet.co.kr/view/?no=20230119100236
+* "미국 드렉셀대 연구진은 챗GPT에 활용한 GPT 모델을 통해 사람이 하는 말을 토대로 치매 초기 단계를 80%까지 예측하는 진단 도구를 올해 초 내놨다."
+* "뉴욕대 아서 캐플런 생명윤리학과 교수는 "이번 코코 사태처럼 사용자에게 알리지 않고 AI 기술을 사용하는 비윤리적인 행태가 앞으로 지속될 것이다"며 "특히 챗GPT 등 챗봇을 통한 정신적 진단과 판단은 아직 표준 치료법이 아니다"고 지적했다."
 
 ### 경제
 #### 22 ways ChatGPT could be used in economics research (기사, February 14, 2023)
@@ -273,43 +317,6 @@ Floridi는 물질 세계가 중복되고 있으며 정보 환경 또는 그가 "
 * 더 짧은 요약: Luciano Floridi 교수는 옥스퍼드 대학교 정보 철학 및 윤리 교수이자 옥스퍼드 인터넷 연구소 디지털 윤리 연구실 책임자입니다. 또한 Uhiro Center for Practical Ethics의 저명한 연구원이자 컴퓨터 공학과의 정보 정책 연구원이기도 합니다. 그의 연구는 디지털 윤리, 정보 철학 및 기술 철학에 중점을 둡니다. Floridi는 모든 정보 프로세스와 개체로 구성된 정보 환경인 정보권이 우리 현실의 기본 기반이 되고 있으며 점점 더 기술과 AI에 의해 결정되고 있다고 주장합니다. 그는 우리의 존재가 이것에 의해 영향을 받고 있으며 그것을 이해하기 위해서는 정보 철학이 필요하다고 믿습니다.
 
 
-
-
-
-## 윤리적 이슈
-
-다른 카테고리에서도 언급이 되겠지만, 필요할 것 같아 별개의 챕터를 둘었다.
-
-### StackOVerflow의 ChatGPT를 이용한 답변 금지 공지 (공지글, Dec 5, 2022)
-* 최근 StackOverflow에서는 ChatGPT를 이용한 답변을 금지하는 임시 공지를 올렸다. 그 이유는 "the average rate of getting correct answers from ChatGPT is too low" 틀린 답을 너무 그럴듯하게 말하기 때문이라고 한다.
-* https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned?cb=1
-* 아래 글은 페이스북 개인 게시글 내용 (Jan 15, 2023, [링크](https://www.facebook.com/leestation/posts/pfbid03656jLMWz3gWdhVguXvkVkUB7HTwQcRXU993HZ1g6ATxiw7ufftYSyCQQJvK1KfKLl?__cft__[0]=AZUPHEFsic_DfUY5-g3FVVIiYnNyifnVDhHEqaTgO1H_yuTUtTNm1ArVi-35PQggbe1SRXMcdTtya_KbT0qWj7X-jeb4kdimLQ6gH2szaYHuEkglb6Mc_I2GiKXfOfQIsCVIUPQtUynSFxOxIDsY1LxeBlwed7z40stDvtqAdJmmLg&__tn__=%2CO%2CP-R))
-* ChatGPT의 전문성(코딩 한정)에 대한 평가를 다음의 사례로 가늠해볼 수 있지 않겠나 싶다.
-* StackOverflow를 써본 사람은 알겠지만,  답변의 신뢰도와 정확도는 다른 엔지니어들의 추천/비추천을 통해 상대적으로 평가를 받는다. 그런데 ChatGPT의 답이 추천을 많이 받지 못하고, 곧 틀린 내용들이 많다는 것.
-* StackOverflow와 과학계는 동료 연구자들(peers)에 의해 서로를 검증하고 발전시키는 과정을 거친다. 인간에 의해 검증되는 시스템이라 다소 느리다는 단점이 있고, 또한, 이 과정이 신뢰를 얻으려면 "물을 흐리는" 녀석이 없어야 한다.  문제는 ChatGPT가 너무 "빠르게" "물을 흐리는" 녀석이라는 것이다.
-* 그런데 다시 생각해보면 물을 흐리는 녀석은 ChatGPT 자체라기보다는 "ChatGPT를 무분별하게 사용하는 몇몇 사용자들"이다. 위 공지에서 실제로 패널티를 얻는 것도 ChatGPT를 사용한 (것으로 판단되는) 사용자다. (그런데 ChatGPT가 더 발전하면 이런 걸 어떻게 찾아낼런지 ㅎㅎ;)
-* 지난 학기 때, 이산수학 강의를 하게 되면서 수학문제를 풀어보게 시켰는데, 놀랍도록 자세하게 설명을 하는 걸 봤는데, 생각보다 높은 확률로 그 답은 틀렸더랬다. (다행이다.) 만약, 학생들 사이에서 혹은 조교들 사이에서 ChatGPT를 이용해서 푼 문제가 진짜인 것처럼 무분별하게 공유가 되고 이를 너무 쉽게 믿어버리는 상황이 된다면 꽤나 혼란일 것 같다.
-* "아직은" 사람 전문가들이 이런 정보들을 검증해 내야 하는 상황이긴 하지만, ChatGPT와 유사한 서비스들이 더 출시된다면, 여러 서비스들을 돌려보고 그 중에 가장 대세인 답을 사용하게 되는 그런 날도 곧 오겠지.
-
-### [전치형의 과학 언저리] 인공지능은 표절할 수 있는가 (칼럼, Jan 7, 2023)
-* https://www.hani.co.kr/arti/opinion/column/1074600.html
-* "챗지피티와 같은 인공지능은 분명 글을 쓸 수 있다. 글을 쓴다고 말하기가 꺼림칙하다면 적어도 글을 생성한다고는 말할 수 있다. 우리는 그것을 편리한 글쓰기 도구로 활용하게 될 것이다. 이제 고민해야 할 과제는 인공지능이 생성한 텍스트를 기존의 저자와 텍스트의 네트워크 속으로 어떻게 받아들이느냐는 것이다."
-* "앞으로 (조수, 2023)이라고 인용 표기된 글을 만날 때마다 계속 묻게 될 것 같은 질문이다."
-
-### 인공 지능 서비스를 이용한 정보 콘텐츠 시장에는 보이지 않는 손이 동작할까 (블로그, Feb 26, 2023)
-* https://blog.naver.com/leestation/223028386811
-
-
-### 늘 그렇듯 새로운 기술을 이상하게(?) 활용하는 사람들이 등장했다 (영상, Feb 4, 2023)
-* https://youtu.be/4SsieX--ZqY
-* 기술 지식을 모르는 사람도 해킹에 악용할 수 있다
-* 요청을 살짝 수정하는 것만으로도 피싱 이메일 생성 가능
-* "ChatGPT와 같은 툴이 사이버 범죄를 민주화할 것이라 확신한다."
-* 오히려 ChatGPT가 사이버 공격을 분석하고 보안을 강화할 제안을 할 수 있을 것?
-* 크리에이티브 인력 상당수가 창조적 AI 때문에 일자리를 잃을 수도 있다.
-* 가짜 뉴스와 허위 정보를 생성하는 데에 악용될 수 있다.
-* AI 학습에 활용된 데이터는 동의없이 인터넷에서 스크랩된 경우가 많다.
-* 중앙 통제 방식 (OpenAI 방식) vs 탈중앙 배포 방식 (Stability AI, 오픈 소스로 공개함, 포르노 생성에 활용되기도 함)
 
 
 
