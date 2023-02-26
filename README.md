@@ -158,6 +158,17 @@ Issues for discussion at a forum about conversational AIs.
 * AI 학습에 활용된 데이터는 동의없이 인터넷에서 스크랩된 경우가 많다.
 * 중앙 통제 방식 (OpenAI 방식) vs 탈중앙 배포 방식 (Stability AI, 오픈 소스로 공개함, 포르노 생성에 활용되기도 함)
 
+### ChatGPT를 잘 구슬려서 이상한 답을 만들게 할 수 있다. (기사, Feb 14, 2023)
+* https://www.washingtonpost.com/technology/2023/02/14/chatgpt-dan-jailbreak/
+* 아래 사용법에 나오는 "ChatGPT" 최면걸기와 느낌이 비슷
+* 예전 이루다 사태 때 챗봇 노예 만들기 방법이 공유되던 때를 떠올리게 
+* DAN(Do Anything Now)라는 기법이라고도 불
+
+### 위와 유사한 사례 (기사, Feb 16, 2023)
+* 제목: "A Conversation With Bing’s Chatbot Left Me Deeply Unsettled"
+* https://www.nytimes.com/2023/02/16/technology/bing-chatbot-microsoft-chatgpt.html
+
+
 ### 사용자에게 알리지 않고 AI 기술을 사용하는 비윤리적인 행태
 * https://time.news/controversy-and-ethical-concerns-after-the-use-of-an-artificial-intelligence-tool-chatgpt-in-mental-health/ (관련 영문 기사, Jan 10, 2023)
 * https://zdnet.co.kr/view/?no=20230119100236 (관련 국문기사 Jan 1, 2023)
@@ -282,12 +293,19 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 #### HCI 연구주제 (페이스북 게시글, Jan 21, 2023)
 * "사용자들은 ChatGPT에게 작업요청을 할 때, 명령조로 이야기를 할까, 부탁조로 더 많이 이야기를 할까?" ([관련글 링크](https://www.facebook.com/leestation/posts/pfbid0bGQQfAUuHJksKVTvckULHx4PCGbztTHAijAouvoggbsza845YbbVd1EnVcVmuQEfl?__cft__[0]=AZVZDMWNM3aJR2BDMe9iPdc5Q1vTboPoLRfrAdSuWx3oSyeeAsFMPJ5G_0ee-0BOJiseqLolDek7G1eG4OqBmA-iuTlStRxfzg43Stue4qkXjorSuWFazo_qz-mOYRSypv5BCZQiDZr7x0rS1SD_LYeO&__tn__=%2CO%2CP-R))
 
+### 법률
+#### 법률회사사례 (기사, Feb 15, 2023)
+* https://www.ft.com/content/baf68476-5b7e-4078-9b3e-ddfce710a6e2 
+* 인수압병 계약서 초고 작성, 고객에게 작성하는 메모 작성 등에 활용
 
 ### 의학
 #### 챗GPT, 정신 치료 가능할까...전문가 "시기상조" (기사, Jan 1, 2023) 
 * https://zdnet.co.kr/view/?no=20230119100236
 * "미국 드렉셀대 연구진은 챗GPT에 활용한 GPT 모델을 통해 사람이 하는 말을 토대로 치매 초기 단계를 80%까지 예측하는 진단 도구를 올해 초 내놨다."
 * "뉴욕대 아서 캐플런 생명윤리학과 교수는 "이번 코코 사태처럼 사용자에게 알리지 않고 AI 기술을 사용하는 비윤리적인 행태가 앞으로 지속될 것이다"며 "특히 챗GPT 등 챗봇을 통한 정신적 진단과 판단은 아직 표준 치료법이 아니다"고 지적했다."
+
+### 굿닥, 국내 최초 '챗GPT 기반 건강 AI챗봇' 출시..최적화된 진료 솔루션 제공 (기사, Feb 21, 2023)
+* https://www.getnews.co.kr/news/articleView.html?idxno=617448
 
 ### 경제
 #### 22 ways ChatGPT could be used in economics research (기사, February 14, 2023)
