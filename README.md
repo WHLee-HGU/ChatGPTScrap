@@ -269,7 +269,9 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 * 크롬 플러그인 [설치링크](https://chrome.google.com/webstore/detail/googlechatgpt-chatgpt-wit/mdonbhpnpdajiekihkjeneenjhmeipam?hl=en&authuser=0&fbclid=IwAR1c9atyldDfxtwYopJTNQUZwVHGN0HQRosBtn0quxUBdnnKJViVgcDJ4WM)
 * 소개글 ([링크](https://www.facebook.com/hunkims/posts/pfbid0aCGEQcQ3CVUd2Dns73rFP17vdqcBsyX1bweieATwJ3uBggatdjZqDm9mGwVLBxh3l))
 
-
+### ChatGPT Cheat Sheet
+* 고해상도 PDF 신청 링크
+* https://frankandrade.ck.page/08c94cf1c1
 
 
 
