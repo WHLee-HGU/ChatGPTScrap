@@ -273,7 +273,11 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 * 고해상도 PDF 신청 링크
 * https://frankandrade.ck.page/08c94cf1c1
 
-
+8 ### ChatGPT를 위한 구글 확장프로그램 3개 (Feb 18, 2023)
+* https://youtu.be/2wjlVFk0m2A
+1. ChatGPT for Google: 구글 검색 시 ChatGPT 결과를 같이 보여줌 
+2. 프롬프트 지니: 자동으로 영어로 번역해 ChatGPT에 전달
+3. AIPRM for ChatGPT: 정확한 답을 얻기 위한 정형화된 문구를 만들 때 큰 도움을줌줌
 
 
 
