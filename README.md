@@ -48,7 +48,9 @@
 * https://time.com/6255952/ai-impact-chatgpt-microsoft-google/
 * 관전포인트: TIME이라는 글자까지 가려가며 ChatGPT 내용을 표시, 그리고 최종 결정권은 사람임을 우측에 표
 
-
+### ChatGPT를 비롯해 Meta의 LLaMA, Google의 Lamda에 대한 비교자료 포함
+* 기사, [테크톡] ‘한국어’는 뒷전?…격렬해진 AI 전쟁 (기사 Mar 1, 2023)
+* https://news.kbs.co.kr/news/view.do?ncd=7616144&fbclid=IwAR2XAGQz4B4Su-VISTFk9K2IDZz07SeIj_IaiNoNx31DT2QJh5VOo-KqcuE
 
 
 
@@ -214,6 +216,13 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 * AI 현황을 이해한다면, 기술력 및 거대 인공지능 모델을 가지고 있는 Google이 망한다고 이야기하는 것은 잘 모르고 하는 이야기
 * OpenAI는 "페이스메이커"라고 보는 것이 맞다.
 * 싸움은 이제부터
+
+
+### 아마존의 전략에 눈길이 가서 가져온 자료
+* ChatGPT에 도전하는 경쟁자들 (3): 메타와 아마존, 우리도 있다! (Feb 27, 2023)
+* https://youtu.be/JxVO83cO-i8
+* LLM을 서비스하기 위해 필요한 클라우드 서비스. 그리고 그 서비스를 더 잘 돌아가게 하기 위한 하드웨어칩 구축까지.
+
 
 ### 인공지능의 도움으로 다시 바둑에서 사람이 인공지능을 이긴 사례 (기사, Feb 19, 2023)
 * 기사제목: “이사람 인간 맞아? 수상한데”...인공지능과 바둑 15전14승
