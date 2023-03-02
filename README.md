@@ -295,6 +295,15 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 ### 일반 교육
 별도의 문서로 관리 중 [링크: https://github.com/WHLee-HGU/HowToUseChatGPTforEngineeringEdu/](https://github.com/WHLee-HGU/HowToUseChatGPTforEngineeringEdu/)
 
+### YouTube 채널, 미래채널 MyF의 의견
+* ChatGPT, Dall-E 등 생성 AI로 대체 가능한 일 & 대체 어려운 일 '총정리' (Mar 1, 2023)
+* https://youtu.be/duRcF9dom5Q
+* 교사, 법률 전문가, 의사, 기자, 개발자, 그림 관련직, 음악가, 작가/작사가, 판매 영업직, 크리에이터, 운동 선수/강사, 경험 소비 관련, 정치인
+* 최근 AI의 발전에 큰 영향을 받지 않는 일들의 공통점은 무엇? "학교 공부 잘하는 것과는 큰 관계가 없는 일들이 많더라"
+
+
+
+
 
 ### 로봇공학
 #### ChatGPT for Robotics: Design Principles and Model Abilities (MS의 블로그 글, 영상 포함, February 20, 2023)
