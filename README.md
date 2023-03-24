@@ -53,6 +53,12 @@
 * https://news.kbs.co.kr/news/view.do?ncd=7616144&fbclid=IwAR2XAGQz4B4Su-VISTFk9K2IDZz07SeIj_IaiNoNx31DT2QJh5VOo-KqcuE
 
 
+### 카이스트 김대식 교수 | (1부) “인공지능 시대에 애플의 움직임이 없는 이유” 처음 듣는 챗GPT 이야기 (Mar 14, 2023)
+* https://youtu.be/eCKS_etvZyI
+* ChatGPT의 전반전 배경 설명을 들을 수 있음
+
+
+
 
 
 ## 기술적 설명자료
@@ -231,6 +237,9 @@ AI가 그림 기술을 익히는 건 예술가의 생존과 전혀 상관이 없
 * (근시일 내에 인간과 AI의 협력이 확대될 것이라는 점을 시사함)
 
 
+### 카이스트 김대식 교수 | (2부) “챗GPT는 더 강력한 인공지능의 티저” 처음 듣는 챗GPT 이야기 (Mar 21, 2023)
+* https://youtu.be/-BOI9k5sXSs
+* ChatGPT에 다양한 질문을 했던 경험담을 기자들과 질의응답을 통해 답변
 
 
 
